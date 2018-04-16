@@ -1,0 +1,1576 @@
+1523845278209	geckodriver	INFO	geckodriver 0.20.1
+1523845278217	geckodriver	INFO	Listening on 127.0.0.1:57691
+1523845281171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.MijofWqKUNfD"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845281592	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845283088	Marionette	INFO	Listening on port 57703
+1523845283180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 1836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523845373781	geckodriver	INFO	geckodriver 0.20.1
+1523845373789	geckodriver	INFO	Listening on 127.0.0.1:57915
+1523845376752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.adiQ2Z3iZAys"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845377192	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845378846	Marionette	INFO	Listening on port 57929
+1523845379862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 24664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523845748702	geckodriver	INFO	geckodriver 0.20.1
+1523845748709	geckodriver	INFO	Listening on 127.0.0.1:58542
+1523845751662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.TFABDqCSD1Hv"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845752074	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845753774	Marionette	INFO	Listening on port 58567
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523845754780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 22064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523846849739	geckodriver	INFO	geckodriver 0.20.1
+1523846849749	geckodriver	INFO	Listening on 127.0.0.1:60237
+1523846852694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.xfiuqXz9fM7T"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846853110	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846854758	Marionette	INFO	Listening on port 60249
+1523846855804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523846865237	geckodriver	INFO	geckodriver 0.20.1
+1523846865244	geckodriver	INFO	Listening on 127.0.0.1:60347
+1523846868202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.2mVyvtb2kVKv"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846868608	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846870232	Marionette	INFO	Listening on port 60359
+1523846871310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523846931533	geckodriver	INFO	geckodriver 0.20.1
+1523846931541	geckodriver	INFO	Listening on 127.0.0.1:60551
+1523846934506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.5khGxxCsCkRq"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846934920	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846936812	Marionette	INFO	Listening on port 60563
+1523846937616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 20884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 19468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523846947177	geckodriver	INFO	geckodriver 0.20.1
+1523846947188	geckodriver	INFO	Listening on 127.0.0.1:60667
+1523846950127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.Y8rPgMUNgOkp"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846950652	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846952854	Marionette	INFO	Listening on port 60680
+1523846953236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 25052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523846989211	geckodriver	INFO	geckodriver 0.20.1
+1523846989218	geckodriver	INFO	Listening on 127.0.0.1:60815
+1523846992177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.SOtIbGi9YejD"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846992602	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523846994794	Marionette	INFO	Listening on port 60827
+1523846995294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 20884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 25500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847011149	geckodriver	INFO	geckodriver 0.20.1
+1523847011156	geckodriver	INFO	Listening on 127.0.0.1:60940
+1523847014094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.QP7sotnZfe85"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847014526	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847016568	Marionette	INFO	Listening on port 60954
+1523847017234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 22148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22148, Chrome_IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847138667	geckodriver	INFO	geckodriver 0.20.1
+1523847138674	geckodriver	INFO	Listening on 127.0.0.1:61221
+1523847141649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.6cNzr7b5uU1l"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847142092	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847144456	Marionette	INFO	Listening on port 61233
+1523847144764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847154148	geckodriver	INFO	geckodriver 0.20.1
+1523847154156	geckodriver	INFO	Listening on 127.0.0.1:61332
+1523847157128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.WJvwcq7isK4I"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847157560	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847159794	Marionette	INFO	Listening on port 61344
+1523847160238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847170153	geckodriver	INFO	geckodriver 0.20.1
+1523847170159	geckodriver	INFO	Listening on 127.0.0.1:61445
+1523847173118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.3pbQtA31Ka30"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847173532	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847175616	Marionette	INFO	Listening on port 61457
+1523847176244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847186771	geckodriver	INFO	geckodriver 0.20.1
+1523847186783	geckodriver	INFO	Listening on 127.0.0.1:61570
+1523847189684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.OTHGwO4OkYr7"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847190120	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847192110	Marionette	INFO	Listening on port 61584
+1523847192798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 19832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19832, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847208997	geckodriver	INFO	geckodriver 0.20.1
+1523847209009	geckodriver	INFO	Listening on 127.0.0.1:61687
+1523847211952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.1CM0IxNR1dpX"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847212502	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847215156	Marionette	INFO	Listening on port 61699
+1523847215568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 23808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847239658	geckodriver	INFO	geckodriver 0.20.1
+1523847239669	geckodriver	INFO	Listening on 127.0.0.1:61844
+1523847242601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.JSQPC2DBq7TC"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847243036	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847244458	Marionette	INFO	Listening on port 61862
+1523847244608	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847258619	geckodriver	INFO	geckodriver 0.20.1
+1523847258628	geckodriver	INFO	Listening on 127.0.0.1:61955
+1523847261570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.UPirnguzY88t"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847262540	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847265644	Marionette	INFO	Listening on port 61973
+1523847265900	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 20948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23184, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 23184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847283186	geckodriver	INFO	geckodriver 0.20.1
+1523847283196	geckodriver	INFO	Listening on 127.0.0.1:62089
+1523847285974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.rzCcGzn3fD4s"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847286856	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847289196	Marionette	INFO	Listening on port 62101
+1523847289584	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 19872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847305534	geckodriver	INFO	geckodriver 0.20.1
+1523847305547	geckodriver	INFO	Listening on 127.0.0.1:62208
+1523847308474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.dyoAQSmZLKOT"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847311464	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847312968	Marionette	INFO	Listening on port 62222
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847313768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 24812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Parent 24812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847329943	geckodriver	INFO	geckodriver 0.20.1
+1523847329953	geckodriver	INFO	Listening on 127.0.0.1:62346
+1523847332894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.Z2opS9JqedaV"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847333486	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847336020	Marionette	INFO	Listening on port 62358
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847336500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 22956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847353231	geckodriver	INFO	geckodriver 0.20.1
+1523847353242	geckodriver	INFO	Listening on 127.0.0.1:62490
+1523847356177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.exrsxST3BsZH"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847357016	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847359224	Marionette	INFO	Listening on port 62500
+1523847359310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 24316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847372718	geckodriver	INFO	geckodriver 0.20.1
+1523847372729	geckodriver	INFO	Listening on 127.0.0.1:62611
+1523847375670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.RpEuaMyPY0Uy"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847376334	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847378060	Marionette	INFO	Listening on port 62621
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847378786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523847388575	geckodriver	INFO	geckodriver 0.20.1
+1523847388583	geckodriver	INFO	Listening on 127.0.0.1:62747
+1523847391560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.1E3n2tVZD9md"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847392014	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523847393466	Marionette	INFO	Listening on port 62759
+1523847393580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523849213124	geckodriver	INFO	geckodriver 0.20.1
+1523849213134	geckodriver	INFO	Listening on 127.0.0.1:49263
+1523849216089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.mSTzFVFLTC0n"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523849216544	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523849218306	Marionette	INFO	Listening on port 49275
+1523849219204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851396191	geckodriver	INFO	geckodriver 0.20.1
+1523851396202	geckodriver	INFO	Listening on 127.0.0.1:50360
+1523851399227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.C8hod7LiQ1xB"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851399678	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851401274	Marionette	INFO	Listening on port 50370
+1523851402338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 25908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851442116	geckodriver	INFO	geckodriver 0.20.1
+1523851442123	geckodriver	INFO	Listening on 127.0.0.1:50459
+1523851445132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.lMz5YDeTL4Qa"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851445532	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851447198	Marionette	INFO	Listening on port 50467
+1523851448240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 4912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 4912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851457946	geckodriver	INFO	geckodriver 0.20.1
+1523851457955	geckodriver	INFO	Listening on 127.0.0.1:50550
+1523851460956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.8bz4F6k2LjI4"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851461722	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851464360	Marionette	INFO	Listening on port 50558
+1523851464566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Parent 14572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851479752	geckodriver	INFO	geckodriver 0.20.1
+1523851479759	geckodriver	INFO	Listening on 127.0.0.1:50675
+1523851482764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.gOOg0mFCY5Ow"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851485014	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851487852	Marionette	INFO	Listening on port 50685
+1523851488286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 22240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 24888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851504707	geckodriver	INFO	geckodriver 0.20.1
+1523851504715	geckodriver	INFO	Listening on 127.0.0.1:50772
+1523851507722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.DS5fUjP1SJvM"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851508302	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851510364	Marionette	INFO	Listening on port 50780
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851510832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 16744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Parent 26492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851525642	geckodriver	INFO	geckodriver 0.20.1
+1523851525649	geckodriver	INFO	Listening on 127.0.0.1:50866
+1523851529011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.lyqwp05tMzWK"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851530378	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851534014	Marionette	INFO	Listening on port 50874
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851534424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 24292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Parent 24292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851550897	geckodriver	INFO	geckodriver 0.20.1
+1523851550904	geckodriver	INFO	Listening on 127.0.0.1:50977
+1523851553900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.qGMInF5lic4P"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851555132	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851557694	Marionette	INFO	Listening on port 50985
+1523851558020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 10376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851570288	geckodriver	INFO	geckodriver 0.20.1
+1523851570294	geckodriver	INFO	Listening on 127.0.0.1:51080
+1523851573719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.Msfu0Fw2C8xT"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851575554	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851578688	Marionette	INFO	Listening on port 51089
+1523851578930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 25800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851595364	geckodriver	INFO	geckodriver 0.20.1
+1523851595372	geckodriver	INFO	Listening on 127.0.0.1:51186
+1523851598380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.gfqfbNuFgtTV"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851599088	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851601694	Marionette	INFO	Listening on port 51194
+1523851602118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851616352	geckodriver	INFO	geckodriver 0.20.1
+1523851616359	geckodriver	INFO	Listening on 127.0.0.1:51276
+1523851619353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.cDInDz9cxD3X"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851619778	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851621706	Marionette	INFO	Listening on port 51286
+1523851622478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 26520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 26520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851632813	geckodriver	INFO	geckodriver 0.20.1
+1523851632820	geckodriver	INFO	Listening on 127.0.0.1:51369
+1523851635820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.uvCGJeJeBBKj"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851636230	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851637712	Marionette	INFO	Listening on port 51377
+1523851637850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 21528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851646835	geckodriver	INFO	geckodriver 0.20.1
+1523851646842	geckodriver	INFO	Listening on 127.0.0.1:51478
+1523851649854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.R7cbbaVUBgVf"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851650296	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851651948	Marionette	INFO	Listening on port 51486
+1523851652964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/16208419918533065315/CERT_GoogFallReg17_728x90.js, line 1056: TypeError: this.inv_btn_link is undefined
+[Child 2032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851662333	geckodriver	INFO	geckodriver 0.20.1
+1523851662339	geckodriver	INFO	Listening on 127.0.0.1:51579
+1523851665346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.5yjjI0zgcMuz"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851665798	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851667840	Marionette	INFO	Listening on port 51588
+1523851668458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523851677207	geckodriver	INFO	geckodriver 0.20.1
+1523851677215	geckodriver	INFO	Listening on 127.0.0.1:51676
+1523851680219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.QCt9BhF48P5v"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851680884	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523851682772	Marionette	INFO	Listening on port 51684
+1523851683340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 22064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523852443070	geckodriver	INFO	geckodriver 0.20.1
+1523852443078	geckodriver	INFO	Listening on 127.0.0.1:51900
+1523852446034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.9RaUNjTtbFBd"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523852446468	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523852448118	Marionette	INFO	Listening on port 51908
+1523852449142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 22604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523852956301	geckodriver	INFO	geckodriver 0.20.1
+1523852956312	geckodriver	INFO	Listening on 127.0.0.1:52084
+1523852959267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.3hFmKnuRRBEp"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523852959736	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523852961486	Marionette	INFO	Listening on port 52092
+1523852962380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853099695	geckodriver	INFO	geckodriver 0.20.1
+1523853099703	geckodriver	INFO	Listening on 127.0.0.1:52206
+1523853102662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.ID9B1VlPW2An"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853103108	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853105166	Marionette	INFO	Listening on port 52214
+1523853105768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 4848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853215678	geckodriver	INFO	geckodriver 0.20.1
+1523853215685	geckodriver	INFO	Listening on 127.0.0.1:52322
+1523853218651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.dKdULwoztAoL"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853219094	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853220528	Marionette	INFO	Listening on port 52331
+1523853220682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 22672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853529232	geckodriver	INFO	geckodriver 0.20.1
+1523853529239	geckodriver	INFO	Listening on 127.0.0.1:52477
+1523853532197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.NumyGYxnj0CQ"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853532634	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853534396	Marionette	INFO	Listening on port 52485
+1523853535310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 19972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853637146	geckodriver	INFO	geckodriver 0.20.1
+1523853637154	geckodriver	INFO	Listening on 127.0.0.1:52589
+1523853640109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.5qlW6H7DsOEq"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853640552	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853642226	Marionette	INFO	Listening on port 52597
+1523853643218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 18228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853726751	geckodriver	INFO	geckodriver 0.20.1
+1523853726760	geckodriver	INFO	Listening on 127.0.0.1:52688
+1523853729715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.Zh8mrHikqzyW"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853730136	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853731804	Marionette	INFO	Listening on port 52696
+1523853732824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853742587	geckodriver	INFO	geckodriver 0.20.1
+1523853742599	geckodriver	INFO	Listening on 127.0.0.1:52784
+1523853745514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.DvIQukQc1MPt"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853745930	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853747438	Marionette	INFO	Listening on port 52792
+1523853747538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 24788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853759548	geckodriver	INFO	geckodriver 0.20.1
+1523853759575	geckodriver	INFO	Listening on 127.0.0.1:52883
+1523853762467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.jQbYtTXPxzQC"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853763008	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853764668	Marionette	INFO	Listening on port 52893
+1523853765594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 22800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Child 23968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+[Child 23776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1959
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853775140	geckodriver	INFO	geckodriver 0.20.1
+1523853775151	geckodriver	INFO	Listening on 127.0.0.1:52982
+1523853778066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.bIoQJQp4amWf"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853778504	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853782196	Marionette	INFO	Listening on port 52990
+1523853782366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 27356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853797374	geckodriver	INFO	geckodriver 0.20.1
+1523853797385	geckodriver	INFO	Listening on 127.0.0.1:53106
+1523853800308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.rGZkWlCCe0xX"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853801020	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853803212	Marionette	INFO	Listening on port 53114
+1523853803516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853815816	geckodriver	INFO	geckodriver 0.20.1
+1523853815827	geckodriver	INFO	Listening on 127.0.0.1:53202
+1523853818743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.XxlM5Ye0OdFB"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853819156	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853820914	Marionette	INFO	Listening on port 53210
+1523853821854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 24788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853832850	geckodriver	INFO	geckodriver 0.20.1
+1523853832858	geckodriver	INFO	Listening on 127.0.0.1:53308
+1523853835814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.IkNNVB0EuntP"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853836236	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853838182	Marionette	INFO	Listening on port 53316
+1523853838926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 24196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24196, Chrome_Chil[Child 21052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 21052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853848337	geckodriver	INFO	geckodriver 0.20.1
+1523853848345	geckodriver	INFO	Listening on 127.0.0.1:53402
+1523853851299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.lihoKcQSja8c"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853851732	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853853322	Marionette	INFO	Listening on port 53410
+1523853854410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 18220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853864330	geckodriver	INFO	geckodriver 0.20.1
+1523853864342	geckodriver	INFO	Listening on 127.0.0.1:53506
+1523853867254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.z2BLjUW4EMc7"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853867702	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853869176	Marionette	INFO	Listening on port 53514
+1523853869286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 27396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 27472, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853878970	geckodriver	INFO	geckodriver 0.20.1
+1523853879000	geckodriver	INFO	Listening on 127.0.0.1:53597
+1523853881902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.WCgeWek2gjxQ"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853882534	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853885080	Marionette	INFO	Listening on port 53605
+1523853885804	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/16208419918533065315/CERT_GoogFallReg17_728x90.js, line 1056: TypeError: this.inv_btn_link is undefined
+[Child 21800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 21052, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853900822	geckodriver	INFO	geckodriver 0.20.1
+1523853900830	geckodriver	INFO	Listening on 127.0.0.1:53699
+1523853903786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.vo1ormdwxrNP"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853904190	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853905740	Marionette	INFO	Listening on port 53707
+1523853905798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853917906	geckodriver	INFO	geckodriver 0.20.1
+1523853917917	geckodriver	INFO	Listening on 127.0.0.1:53800
+1523853920820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.moEGkF33oIFm"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853921374	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853923162	Marionette	INFO	Listening on port 53808
+1523853923928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 21052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523853934048	geckodriver	INFO	geckodriver 0.20.1
+1523853934055	geckodriver	INFO	Listening on 127.0.0.1:53894
+1523853937003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.GJG6GgvIxMrq"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853937506	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523853939296	Marionette	INFO	Listening on port 53902
+1523853940112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 20616, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854355356	geckodriver	INFO	geckodriver 0.20.1
+1523854355365	geckodriver	INFO	Listening on 127.0.0.1:54066
+1523854358325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.px8lMRUzibnZ"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854358774	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854360460	Marionette	INFO	Listening on port 54074
+1523854361436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 24452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854370907	geckodriver	INFO	geckodriver 0.20.1
+1523854370917	geckodriver	INFO	Listening on 127.0.0.1:54158
+1523854373872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.1twiHy4UiII8"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854374312	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854376148	Marionette	INFO	Listening on port 54170
+1523854376982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854387242	geckodriver	INFO	geckodriver 0.20.1
+1523854387252	geckodriver	INFO	Listening on 127.0.0.1:54267
+1523854390192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.lytXJiftk0Eu"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854390666	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854392748	Marionette	INFO	Listening on port 54275
+1523854393314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 21676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854406438	geckodriver	INFO	geckodriver 0.20.1
+1523854406449	geckodriver	INFO	Listening on 127.0.0.1:54366
+1523854409394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.t7kP241rtBna"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854409800	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854411426	Marionette	INFO	Listening on port 54374
+1523854412508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854422104	geckodriver	INFO	geckodriver 0.20.1
+1523854422112	geckodriver	INFO	Listening on 127.0.0.1:54458
+1523854425069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.jYbOmkJlKOJ0"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854425490	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854427046	Marionette	INFO	Listening on port 54466
+1523854427082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 8272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 27680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 26136
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854437154	geckodriver	INFO	geckodriver 0.20.1
+1523854437162	geckodriver	INFO	Listening on 127.0.0.1:54562
+1523854440136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.xMFtoUoRpPA7"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854440704	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854442466	Marionette	INFO	Listening on port 54570
+1523854443248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 26336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854452589	geckodriver	INFO	geckodriver 0.20.1
+1523854452599	geckodriver	INFO	Listening on 127.0.0.1:54666
+1523854455576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.2xN1zFzNjoMj"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854456540	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854458084	Marionette	INFO	Listening on port 54674
+1523854458726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 26288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854467874	geckodriver	INFO	geckodriver 0.20.1
+1523854467885	geckodriver	INFO	Listening on 127.0.0.1:54756
+1523854470870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.MmIQZhTRylrq"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854471444	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854473170	Marionette	INFO	Listening on port 54764
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1523854473986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 28596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523854483734	geckodriver	INFO	geckodriver 0.20.1
+1523854483742	geckodriver	INFO	Listening on 127.0.0.1:54865
+1523854486706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.7AKBzlgJKz8a"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854487112	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854488840	Marionette	INFO	Listening on port 54873
+1523854489820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 28492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854498929	geckodriver	INFO	geckodriver 0.20.1
+1523854498940	geckodriver	INFO	Listening on 127.0.0.1:54961
+1523854501881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.Ih0dyT4OR71u"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854502312	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854504122	Marionette	INFO	Listening on port 54971
+1523854504994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 23368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 20148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854513830	geckodriver	INFO	geckodriver 0.20.1
+1523854513838	geckodriver	INFO	Listening on 127.0.0.1:55065
+1523854516792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.NzjJIMHxpes1"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854517260	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854518874	Marionette	INFO	Listening on port 55073
+1523854519904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 27692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+[Parent 27692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854533585	geckodriver	INFO	geckodriver 0.20.1
+1523854533595	geckodriver	INFO	Listening on 127.0.0.1:55163
+1523854535728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.k7kwl0s2KVSU"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854536392	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854538744	Marionette	INFO	Listening on port 55179
+1523854538850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Parent 22036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523854555421	geckodriver	INFO	geckodriver 0.20.1
+1523854555445	geckodriver	INFO	Listening on 127.0.0.1:55297
+1523854558317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mercy\\AppData\\Local\\Temp\\rust_mozprofile.UPGoNvDh6wqA"
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854558732	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Mercy\AppData\Local\openvr\openvrpaths.vrpath
+1523854560152	Marionette	INFO	Listening on port 55305
+1523854560326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.collegedata.com/cs/responsive/js/libraries/custom.navtouch.cs.js, line 27: unreachable code after return statement
+[Child 26840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 21876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
