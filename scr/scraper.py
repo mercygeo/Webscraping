@@ -46,6 +46,7 @@ class StudentsScraper():
                     #spamwriter.writerow(titles)
                     for tr in tbody:        
                         values = [td.get_text().replace('\n','').replace('\t','').replace('Save','').strip() if not td.find('img') else "Female" if "_female" in td.select("img")[0]['src'] else "Male" for td in tr.select("td")]
+                        if not values[0].strip():continue
                         spamwriter.writerow(values)
 
     
